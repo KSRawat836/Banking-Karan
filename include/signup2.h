@@ -6,7 +6,6 @@
 #include <math.h>
 #include <raylib.h>
 #include <string.h>
-#include "Admin.h"
 #include "account.h"
 #include "login_page.h"
 
